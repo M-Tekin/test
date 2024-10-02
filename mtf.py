@@ -1,7 +1,7 @@
-from ecrin import test2
+from ecrin import test3
 
 def mtf():
     print("mtf")
 
 def mtf2():
-    test2()
+    test3()
